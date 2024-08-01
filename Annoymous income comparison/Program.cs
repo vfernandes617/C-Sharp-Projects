@@ -12,31 +12,50 @@ namespace Annoymous_income_comparison
         {
             Console.WriteLine("Anonymous Income Comparison Program");
 
-            // Person 1 
             Console.WriteLine("Person 1");
-            Console.WriteLine("Hourly Rate:");
-            decimal hourlyRate1 = Convert.ToDecimal(Console.ReadLine());
-            Console.WriteLine("Hourly worked per week:");
-            decimal hoursPerWeek1 = Convert.ToDecimal(Console.ReadLine());
+            int hourlyRate1 = GetValidIntegerInput("Hourly Rate?");
+            int hours1 = GetValidIntegerInput("Hours worked per week?");
+            int salary1 = hourlyRate1 * hours1 * 52;
 
-            // Person 2
+
             Console.WriteLine("Person 2");
-            Console.WriteLine("Hourly Rate:");
-            decimal hourlyRate2 = Convert.ToDecimal(Console.ReadLine());
-            Console.WriteLine("Hourly worked per week:");
-            decimal hoursPerWeek2 = Convert.ToDecimal(Console.ReadLine());
+            int hourlyRate2 = GetValidIntegerInput("Hourly Rate?");
+            int hours2 = GetValidIntegerInput("Hours worked per week?");
+            int salary2 = hourlyRate1 * hours1 * 52;
 
-            //Calculating annual salaries
-            decimal annualSalary1 = hourlyRate1 * hoursPerWeek1 * 52;
-            decimal annualSalary2 = hourlyRate2 * hoursPerWeek2 * 52;
+            Console.WriteLine("Annual salary of Person 1:");
+            Console.WriteLine(salary1);
+            Console.WriteLine("Annual salary of Person 2:");
+            Console.WriteLine(salary2);
+
 
             //Comparing Salaries
-            bool doesPerson1MakeMore = annualSalary1 > annualSalary2;
-            Console.WriteLine($"Does Person 1 make more money than Person 2?");
+            bool doesPerson1MakeMore = salary1 > salary2;
+            Console.WriteLine("Does Person 1 make more money than Person 2?");
             Console.WriteLine(doesPerson1MakeMore);
+            Console.ReadLine(); }
+
+        static int GetValidIntegerInput(string prompt)
+        {
+            int result;
+            while (true)
+            {
+                Console.WriteLine(prompt);
+                string input = Console.ReadLine();
+                try
+                {
+                    result = Convert.ToInt32(input);
+                    break;
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Invalid input. Please enter a valid integer.");
+                }
+            }
+            return result;
+        }
         }
     }
-}
 
         
     
