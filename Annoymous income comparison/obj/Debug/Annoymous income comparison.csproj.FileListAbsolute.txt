@@ -5,3 +5,10 @@ C:\Users\Administrator\Desktop\Basic_C#_Programs\C-Sharp-Projects\Annoymous inco
 C:\Users\Administrator\Desktop\Basic_C#_Programs\C-Sharp-Projects\Annoymous income comparison\Annoymous income comparison\obj\Debug\Annoymous income comparison.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\Basic_C#_Programs\C-Sharp-Projects\Annoymous income comparison\Annoymous income comparison\obj\Debug\Annoymous income comparison.exe
 C:\Users\Administrator\Desktop\Basic_C#_Programs\C-Sharp-Projects\Annoymous income comparison\Annoymous income comparison\obj\Debug\Annoymous income comparison.pdb
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\Annoymous income comparison\bin\Debug\Annoymous income comparison.exe.config
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\Annoymous income comparison\bin\Debug\Annoymous income comparison.exe
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\Annoymous income comparison\bin\Debug\Annoymous income comparison.pdb
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\Annoymous income comparison\obj\Debug\Annoymous income comparison.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\Annoymous income comparison\obj\Debug\Annoymous income comparison.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\Annoymous income comparison\obj\Debug\Annoymous income comparison.exe
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\Annoymous income comparison\obj\Debug\Annoymous income comparison.pdb
