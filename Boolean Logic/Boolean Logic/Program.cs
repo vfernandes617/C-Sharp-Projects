@@ -13,7 +13,7 @@ namespace Boolean_Logic
             // Asking for the user's age
             Console.WriteLine("What is your age?");
             int age;
-            while (!int.TryParse(Console.ReadLine(), out age) || age < 15)
+            while (!int.TryParse(Console.ReadLine(), out age) || age < 0)
             {
                 Console.WriteLine("Please enter a valid age.");
             }
@@ -38,7 +38,7 @@ namespace Boolean_Logic
                 }
                 else
                 {
-                    Console.WriteLine("Please enter 'True' or 'False'.");
+                    Console.WriteLine("Please enter 'Yes' or 'No'.");
                 }
             }
 
@@ -48,9 +48,9 @@ namespace Boolean_Logic
             //Asking about speeding tickets
             Console.WriteLine("How many speeding tickets do you have?");
             int speedTicket;
-            while (!int.TryParse(Console.ReadLine(), out speedTicket) || speedTicket < 3)
+            while (!int.TryParse(Console.ReadLine(), out speedTicket) || speedTicket < 0)
             {
-                Console.WriteLine("Please enter a valid age.");
+                Console.WriteLine("Please enter a number");
             }
 
             // Displaying the result
