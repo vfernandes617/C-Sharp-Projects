@@ -1,5 +1,6 @@
 ﻿ using System;
 using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -48,6 +49,34 @@ namespace Loops
             }
             while (isGuessed == false);
                     Console.ReadLine();
+
+            //a while statment example
+            int targetNumber = 8;
+            bool guessedCorrectly = false;
+
+            Console.WriteLine("This is a numbered guessing game!");
+            Console.WriteLine("Guess the number between 1 and 10.");
+
+            while (!guessedCorrectly)
+            {  Console.WriteLine("Enter your guess:")
+                    string input = Console.ReadLine();
+
+                if (int.TryParse(input, out int guess))
+                {
+                    if guess == targetNumer)
+                    {
+                        guessedCorrectly = true;
+                        Console.WriteLine("Check that out you guess correctly");
+                    }
+                    else
+                    {
+                        Console.WriteLine("You guessed wrong");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine(" That entry does not work . put in a number");
+                }
 
             }
         }
