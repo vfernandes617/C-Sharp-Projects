@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
