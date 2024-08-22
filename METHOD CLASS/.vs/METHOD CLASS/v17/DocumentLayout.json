@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\METHOD CLASS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89372D2A-6AC5-4582-8284-9D0528CCF43B}|METHOD CLASS\\METHOD CLASS.csproj|c:\\users\\administrator\\documents\\github\\c-sharp-projects\\method class\\method class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89372D2A-6AC5-4582-8284-9D0528CCF43B}|METHOD CLASS\\METHOD CLASS.csproj|solutionrelative:method class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89372D2A-6AC5-4582-8284-9D0528CCF43B}|METHOD CLASS\\METHOD CLASS.csproj|c:\\users\\administrator\\documents\\github\\c-sharp-projects\\method class\\method class\\voidmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89372D2A-6AC5-4582-8284-9D0528CCF43B}|METHOD CLASS\\METHOD CLASS.csproj|solutionrelative:method class\\voidmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Voidmethod.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\METHOD CLASS\\METHOD CLASS\\Voidmethod.cs",
+              "RelativeDocumentMoniker": "METHOD CLASS\\Voidmethod.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\METHOD CLASS\\METHOD CLASS\\Voidmethod.cs",
+              "RelativeToolTip": "METHOD CLASS\\Voidmethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:09:47.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\METHOD CLASS\\METHOD CLASS\\Program.cs",
+              "RelativeDocumentMoniker": "METHOD CLASS\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\METHOD CLASS\\METHOD CLASS\\Program.cs",
+              "RelativeToolTip": "METHOD CLASS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:04:29.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
