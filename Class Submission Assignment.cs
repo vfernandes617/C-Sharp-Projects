@@ -10,21 +10,22 @@ namespace CLASS_SUBMISSION_ASSIGNMENT
     {
         static void Main(string[] args)
         {
-            VoidINT voidINT = new VoidINT();
+            // Instantiate the class (though it's static, so no need to create an instance)
 
-            Console.WriteLine("Enter a number:");
-            int num = int.Parse(Console.ReadLine());
+            // Get user input
+            Console.WriteLine("Enter an integer:");
+            int userInput = Convert.ToInt32(Console.ReadLine());
 
-          
-            voidINT.WrongAnswer(num);
+            // Call the method that divides by 2
+            Divider.DivideByTwo(userInput);
 
-            // Call the method with an output parameter
-            int result;
-            voidINT.WrongAnswer(num, out result);
-            Console.WriteLine("The result is: " + result);
+            // Call the overloaded method with a double
+            Console.WriteLine("Enter a double:");
+            double userDoubleInput = Convert.ToDouble(Console.ReadLine());
+            Divider.DivideByTwo(userDoubleInput);
 
-            // Call the overloaded method
-            voidINT.DivideByTwoAgain(5.5);
+            // Call the method with output parameters
+            Divider.DivideByTwoOutput(userInput, out int result);
+            Console.WriteLine($"Using output parameter: The result of dividing {userInput} by 2 is: {result}");
         }
     }
-}

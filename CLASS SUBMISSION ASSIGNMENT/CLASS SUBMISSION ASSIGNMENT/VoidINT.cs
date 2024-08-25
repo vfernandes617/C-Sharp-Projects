@@ -6,24 +6,26 @@ using System.Threading.Tasks;
 
 namespace CLASS_SUBMISSION_ASSIGNMENT
 {
-    internal class VoidINT
+    public static class Divider
     {
-        // Method without output parameter
-        public void WrongAnswer(int number)
+        // Void method that divides an integer by 2
+        public static void DivideByTwo(int input)
         {
-            Console.WriteLine("Processing number without output parameter: " + number);
+            int result = input / 2;
+            Console.WriteLine($"The result of dividing {input} by 2 is: {result}");
         }
 
-        // Method with output parameter
-        public void WrongAnswer(int number, out int result)
+        // Method with output parameters
+        public static void DivideByTwoOutput(int input, out int result)
         {
-            result = number * 2; // Example logic for the method
+            result = input / 2;
         }
 
-        // Overloaded method that accepts a double
-        public void DivideByTwoAgain(double number)
+        // Overloaded method (same name, different parameter type)
+        public static void DivideByTwo(double input)
         {
-            Console.WriteLine("Divide by two: " + (number / 2));
+            double result = input / 2.0;
+            Console.WriteLine($"The result of dividing {input} by 2 is: {result}");
         }
     }
 }
