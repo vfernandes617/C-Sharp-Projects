@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\Coporation app\Coporation app\bin\Debug\Coporation app.exe.config
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\Coporation app\Coporation app\bin\Debug\Coporation app.exe
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\Coporation app\Coporation app\bin\Debug\Coporation app.pdb
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\Coporation app\Coporation app\obj\Debug\Coporation app.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\Coporation app\Coporation app\obj\Debug\Coporation app.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\Coporation app\Coporation app\obj\Debug\Coporation app.exe
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\Coporation app\Coporation app\obj\Debug\Coporation app.pdb

@@ -18,5 +18,6 @@ namespace ABSTRACT_CLASS_SUBMISSION
             throw new NotImplementedException();
         }
 
+        public static
     }
 }

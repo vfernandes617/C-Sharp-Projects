@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\Coporation app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6041CB6F-2C9B-45DA-B13D-9DEF3D5FEC2F}|Coporation app\\Coporation app.csproj|c:\\users\\administrator\\documents\\github\\c-sharp-projects\\coporation app\\coporation app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6041CB6F-2C9B-45DA-B13D-9DEF3D5FEC2F}|Coporation app\\Coporation app.csproj|solutionrelative:coporation app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6041CB6F-2C9B-45DA-B13D-9DEF3D5FEC2F}|Coporation app\\Coporation app.csproj|c:\\users\\administrator\\documents\\github\\c-sharp-projects\\coporation app\\coporation app\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6041CB6F-2C9B-45DA-B13D-9DEF3D5FEC2F}|Coporation app\\Coporation app.csproj|solutionrelative:coporation app\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6041CB6F-2C9B-45DA-B13D-9DEF3D5FEC2F}|Coporation app\\Coporation app.csproj|c:\\users\\administrator\\documents\\github\\c-sharp-projects\\coporation app\\coporation app\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6041CB6F-2C9B-45DA-B13D-9DEF3D5FEC2F}|Coporation app\\Coporation app.csproj|solutionrelative:coporation app\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6041CB6F-2C9B-45DA-B13D-9DEF3D5FEC2F}|Coporation app\\Coporation app.csproj|c:\\users\\administrator\\documents\\github\\c-sharp-projects\\coporation app\\coporation app\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6041CB6F-2C9B-45DA-B13D-9DEF3D5FEC2F}|Coporation app\\Coporation app.csproj|solutionrelative:coporation app\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\Coporation app\\Coporation app\\Employee.cs",
+              "RelativeDocumentMoniker": "Coporation app\\Employee.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\Coporation app\\Coporation app\\Employee.cs*",
+              "RelativeToolTip": "Coporation app\\Employee.cs*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:31:11.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQuittable.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\Coporation app\\Coporation app\\IQuittable.cs",
+              "RelativeDocumentMoniker": "Coporation app\\IQuittable.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\Coporation app\\Coporation app\\IQuittable.cs*",
+              "RelativeToolTip": "Coporation app\\IQuittable.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:29:49.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\Coporation app\\Coporation app\\Program.cs",
+              "RelativeDocumentMoniker": "Coporation app\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\Coporation app\\Coporation app\\Program.cs*",
+              "RelativeToolTip": "Coporation app\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:20:17.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\Coporation app\\Coporation app\\Person.cs",
+              "RelativeDocumentMoniker": "Coporation app\\Person.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\Coporation app\\Coporation app\\Person.cs*",
+              "RelativeToolTip": "Coporation app\\Person.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:28:43.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

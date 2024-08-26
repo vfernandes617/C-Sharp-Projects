@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\ABSTRACT CLASS SUBMISSION\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9774C46-13FE-4B7B-ADB6-7A314C0E0522}|ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION.csproj|c:\\users\\administrator\\documents\\github\\c-sharp-projects\\abstract class submission\\abstract class submission\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9774C46-13FE-4B7B-ADB6-7A314C0E0522}|ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION.csproj|solutionrelative:abstract class submission\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9774C46-13FE-4B7B-ADB6-7A314C0E0522}|ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\ABSTRACT CLASS SUBMISSION\\abstract class submission\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9774C46-13FE-4B7B-ADB6-7A314C0E0522}|ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION.csproj|solutionrelative:abstract class submission\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9774C46-13FE-4B7B-ADB6-7A314C0E0522}|ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION.csproj|c:\\users\\administrator\\documents\\github\\c-sharp-projects\\abstract class submission\\abstract class submission\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9774C46-13FE-4B7B-ADB6-7A314C0E0522}|ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\ABSTRACT CLASS SUBMISSION\\abstract class submission\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9774C46-13FE-4B7B-ADB6-7A314C0E0522}|ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION.csproj|solutionrelative:abstract class submission\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9774C46-13FE-4B7B-ADB6-7A314C0E0522}|ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION.csproj|C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\ABSTRACT CLASS SUBMISSION\\abstract class submission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9774C46-13FE-4B7B-ADB6-7A314C0E0522}|ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION.csproj|solutionrelative:abstract class submission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "IQuittable.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION\\IQuittable.cs",
               "RelativeDocumentMoniker": "ABSTRACT CLASS SUBMISSION\\IQuittable.cs",
@@ -39,45 +27,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T01:13:44.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION\\Employee.cs",
-              "RelativeDocumentMoniker": "ABSTRACT CLASS SUBMISSION\\Employee.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION\\Employee.cs",
-              "RelativeToolTip": "ABSTRACT CLASS SUBMISSION\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T00:23:37.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION\\Person.cs",
-              "RelativeDocumentMoniker": "ABSTRACT CLASS SUBMISSION\\Person.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION\\Person.cs",
-              "RelativeToolTip": "ABSTRACT CLASS SUBMISSION\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T00:22:31.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION\\Program.cs",
-              "RelativeDocumentMoniker": "ABSTRACT CLASS SUBMISSION\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\GitHub\\C-Sharp-Projects\\ABSTRACT CLASS SUBMISSION\\ABSTRACT CLASS SUBMISSION\\Program.cs",
-              "RelativeToolTip": "ABSTRACT CLASS SUBMISSION\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T00:19:03.783Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
