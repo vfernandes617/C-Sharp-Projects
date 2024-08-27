@@ -27,5 +27,6 @@ namespace CLASS_SUBMISSION_ASSIGNMENT
             // Call the method with output parameters
             Divider.DivideByTwoOutput(userInput, out int result);
             Console.WriteLine($"Using output parameter: The result of dividing {userInput} by 2 is: {result}");
+            Console.ReadLine();
         }
     }
