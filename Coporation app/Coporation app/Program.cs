@@ -10,21 +10,34 @@ namespace Coporation_app
     {
         static void Main(string[] args)
         {
-            // Instantiate and initialize an Employee object
-            Employee employee = new Employee()
+            // Instantiate two Employee objects
+            Employee employee1 = new Employee()
             {
                 FirstName = "Sample",
-                LastName = "Student"
+                LastName = "Student",
+                Id = 1
             };
 
-            // Call the overridden SayName() method
-            employee.SayName();
+            Employee employee2 = new Employee()
+            {
+                FirstName = "Another",
+                LastName = "Person",
+                Id = 1
+            };
+
+            // Call the SayName() method
+            employee1.SayName();
 
             // Use polymorphism to create an object of type IQuittable
-            IQuittable quittableEmployee = employee;
+            IQuittable quittableEmployee = employee1;
 
             // Call the Quit() method using the IQuittable interface
             quittableEmployee.Quit();
+
+            // Compare two Employee objects using the overloaded "==" operator
+            bool areEqual = employee1 == employee2;
+            Console.WriteLine($"Are these employees equal? {areEqual}");
+            Console.ReadLine();
         }
     }
 }

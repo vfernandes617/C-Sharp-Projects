@@ -22,6 +22,35 @@ namespace Coporation_app
         {
             Console.WriteLine("Employee has quit the job.");
         }
+        // Overload the "==" operator to compare two Employee objects by their Id
+        public static bool operator ==(Employee emp1, Employee emp2)
+        {
+            // Check if either object is null
+            if (ReferenceEquals(emp1, null) || ReferenceEquals(emp2, null))
+            {
+                return ReferenceEquals(emp1, emp2);
+            }
 
+            // Compare by Id
+            return emp1.Id == emp2.Id;
+        }
+
+        // Overload the "!=" operator 
+        public static bool operator !=(Employee emp1, Employee emp2)
+        {
+            return !(emp1 == emp2);
+        }
+
+        // Override Equals() to ensure consistency with the overloaded operators
+        public override bool Equals(object obj)
+        {
+            if (obj == null || !(obj is Employee))
+            {
+                return false;
+            }
+
+            Employee other = (Employee)obj;
+            return this.Id == other.Id;
+        }
     }
 }
