@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CLASS_SUBMISSION_ASSIGNMENT
+namespace CLASS_SUBMISSION_ASSIGNMENT2
 {
-    public static class Divider
+    internal static class MathOPS
     {
         // Void method to divide a number by 2
         public static void DivideByTwo(int number, out int result)

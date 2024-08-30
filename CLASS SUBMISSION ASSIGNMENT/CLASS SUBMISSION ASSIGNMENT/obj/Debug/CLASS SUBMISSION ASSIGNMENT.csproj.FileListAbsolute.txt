@@ -1,0 +1,2 @@
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\CLASS SUBMISSION ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C-Sharp-Projects\CLASS SUBMISSION ASSIGNMENT\CLASS SUBMISSION ASSIGNMENT\obj\Debug\CLASS SUBMISSION ASSIGNMENT.csproj.CoreCompileInputs.cache
