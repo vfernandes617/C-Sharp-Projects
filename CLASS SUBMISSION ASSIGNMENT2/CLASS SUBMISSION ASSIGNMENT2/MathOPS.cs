@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CLASS_SUBMISSION_ASSIGNMENT2
 {
-    internal static class MathOPS
+    internal class MathOPS
     {
         // Void method to divide a number by 2
         public static void DivideByTwo(int number, out int result)

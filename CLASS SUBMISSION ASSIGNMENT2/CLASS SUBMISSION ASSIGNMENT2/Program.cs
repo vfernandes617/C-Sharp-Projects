@@ -14,6 +14,8 @@ namespace CLASS_SUBMISSION_ASSIGNMENT2
             Console.WriteLine("Enter a number:");
             int userNumber = Convert.ToInt32(Console.ReadLine());
 
+            MathOPS mathOPS = new MathOPS();
+
             // Using the overloaded method (without output parameter)
             MathOPS.DivideByTwo(userNumber);
 
