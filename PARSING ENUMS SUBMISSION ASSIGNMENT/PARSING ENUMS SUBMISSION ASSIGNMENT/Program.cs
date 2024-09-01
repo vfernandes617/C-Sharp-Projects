@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -12,7 +13,8 @@ namespace PARSING_ENUMS_SUBMISSION_ASSIGNMENT
         static void Main(string[] args)
         {
             Console.WriteLine("Enter in the current day of the week(0 gives you Monday and 7 gives you Sunday):");
-            int dayNumber = Convert.ToInt32(Console.ReadLine());
+           int dayNumber = 0;
+           
 
             DayOfWeek day1 = DayOfWeek.Monday;
             DayOfWeek day2 = DayOfWeek.Tuesday;
@@ -21,7 +23,7 @@ namespace PARSING_ENUMS_SUBMISSION_ASSIGNMENT
             DayOfWeek day5 = DayOfWeek.Friday;
             DayOfWeek day6 = DayOfWeek.Saturday;
             DayOfWeek day7 = DayOfWeek.Sunday;
-            dayNumber = Convert.ToInt32(Console.ReadLine());
+            dayNumber = Convert.ToInt32((int)dayNumber);
 
             if (dayNumber >= 0 && dayNumber <= 6)
             {
@@ -33,7 +35,7 @@ namespace PARSING_ENUMS_SUBMISSION_ASSIGNMENT
                 Console.WriteLine("Invalid day number! Please enter a value between 0 and 6.");
             }
             
-
+            Console.ReadLine();
         }
     }
 }
