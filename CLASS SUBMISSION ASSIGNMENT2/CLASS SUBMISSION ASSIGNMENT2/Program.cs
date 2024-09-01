@@ -13,7 +13,7 @@ namespace CLASS_SUBMISSION_ASSIGNMENT2
             // Ask user to input a number
             Console.WriteLine("Enter a number:");
             int userNumber = Convert.ToInt32(Console.ReadLine());
-
+            //Instantiated MathOPS
             MathOPS mathOPS = new MathOPS();
 
             // Using the overloaded method (without output parameter)
