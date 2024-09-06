@@ -19,7 +19,7 @@ namespace DATETIME_SUBMISSION_ASSIGNMENT
             if (int.TryParse(userInput, out hours))
             {
                 DateTime workedTime = dateTime.AddHours(hours);
-                Console.WriteLine("In " + hours + " you would have worked this much: " + workedTime);
+                Console.WriteLine("After your  " + hours + " your job will end at: " + workedTime);
                
             }
            
