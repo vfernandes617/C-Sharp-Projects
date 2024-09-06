@@ -18,7 +18,7 @@ namespace TwentyOne
             Hand.Add(Deck.Cards.First());
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
-            using (StreamWriter file = new StreamWriter(@"C:\Users\Administrator\Desktop\Basic_C#_Programs\", true))
+            using (StreamWriter file = new StreamWriter(@"C:\Users\Administrator\Desktop\Basic_C#_Programs\log.txt", true))
             { 
                 file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
